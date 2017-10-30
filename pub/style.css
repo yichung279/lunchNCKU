@@ -1,0 +1,48 @@
+body{
+  background-color:antiquewhite;
+  height:1500px;
+}
+
+
+#whattoeat{
+  width:500px;
+  position:absolute;
+  top:100px;
+  left:50%;
+  margin-left:-250px;
+  font-family:Microsoft JhengHei;
+  font-size:xx-large;
+}
+#ToEat{
+  width:400px;
+  height:40px;
+  font-size:x-large;
+  padding:20px;
+  margin:20px;
+  border-radius: 50px;
+  border: 1px solid #ccc;
+}
+.aj_bt{
+  width:400px;
+  height:40px;
+  font-size:x-large;
+  margin:10px;
+  border-radius: 50px;
+  border: 1px solid #ccc;
+  color:white;
+  background-color: #4CAF50;
+}
+
+#content{
+  margin:20px;
+  text-align:center;
+  width:400px;
+  position:relative;
+  top:-25px;
+  left:-10px;
+}
+label{
+ position:relative;
+ left:10px;
+}
+
